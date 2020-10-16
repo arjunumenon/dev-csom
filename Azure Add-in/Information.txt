@@ -1,0 +1,21 @@
+## Certificate Information ##
+
+Password : P@ssw0rd4aum
+
+## Add-In Information	##
+Name : CSOM Add-in Application
+Client ID : 497d0d82-cb8e-4798-9525-b8970751c3bf
+Tenant ID : 7c9154c9-0f63-443e-a07a-8a3ede021afc
+
+
+
+### AUM365
+
+
+Name : SharePoint Add-in App
+Client ID : d725c3bd-4977-4dba-8429-454cb2ad7b72
+Tenant ID : 095efa67-57fa-40c7-b7cc-e96dc3e5780c
+
+Client Secret : CZyEl79~~PE_94D.0bgx_b0s~A2Udpe2Si
+
+Password : P@ssw0rd
